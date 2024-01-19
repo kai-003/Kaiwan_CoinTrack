@@ -16,6 +16,9 @@ Preferrd Emulator: Pixel 7 Pro API 30
 
 This application contains a login page in the beginning where employee and admin login takes place. If logged in by one of the employees, the employee dashboard activity is started and there are tabs created using CardView: Add Expense, View Expense, Logout, Contact Us.The name of the employee is visible on dashboard as "Welcome, employee_name!".
 
+This application uses SQLite for storing data as a local database. The databse 'exp.db' contains a table 'EXPENSE' with columns: Employee name(Varchar(50)), Expense name(Varchar(50)), Expense(Float).
+functions defined are insert data, remove data when clicked on 'X', showing the expense list using list view, displaying total expense. (In actual scenario, firebase can be used as a remote database)
+
 Employees can add their expense that need to be reimbursed by the company.
 They can view and edit the expenses in the view expenses tab.
 The logout button takes the employee to the login page again.
