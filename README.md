@@ -12,7 +12,7 @@ Use Case: Create an android app for the same. Use creative ideas as to how to ma
 Admin:
 {“Admin”,”Admin123”}
 
-Preferrd Emulator: Pixel 7 Pro API 30
+Preferred Emulator: Pixel 7 Pro API 30
 
 This application contains a login page in the beginning where employee and admin login takes place. If logged in by one of the employees, the employee dashboard activity is started and there are tabs created using CardView: Add Expense, View Expense, Logout, Contact Us.The name of the employee is visible on dashboard as "Welcome, employee_name!".
 
