@@ -1,7 +1,5 @@
 CoinTrack Android App
 
-Use Case: Create an android app for the same. Use creative ideas as to how to make this app user friendly and helpful to client and his employees assuming the client has 5 employees.
-
 5 Employees defined in the application:
 {"Kaiwan", "Kai123"},
 {"Anushree", "Anu456"},
